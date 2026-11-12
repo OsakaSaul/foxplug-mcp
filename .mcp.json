@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "foxplug": {
+      "url": "https://foxplug.com/mcp",
+      "headers": {
+        "Authorization": "Bearer fpk_YOUR_AGENT_KEY"
+      }
+    }
+  }
+}
